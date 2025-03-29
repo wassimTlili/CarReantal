@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "caush@69",
+    "database": "car_rental_db",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "caush@69",
+    "database": "car_rental_db",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "your_password",
+    "database": "car_rental_db_prod",
+    "host": "localhost",
+    "dialect": "postgres",
+    "logging": false
+  }
+}
